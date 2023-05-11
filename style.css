@@ -1,0 +1,26 @@
+#head{
+    width:100%;
+    font-size:45px;
+    color:black;
+    margin:0;
+    box-shadow:5px 5px 100px 20px black;
+    
+}
+#note{
+    width:80%;
+    font-size:13px;
+    color:black;
+    box-shadow:5px 5px 10px  black;
+}
+#footer{
+    position:fixed;
+    bottom:0;
+    background-color: lightsalmon;
+    width:100%;
+    text-align: center;
+    line-height:3;
+}
+canvas{
+    border-style:groove;
+    border-color:royalblue;
+}
